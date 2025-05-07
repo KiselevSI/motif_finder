@@ -99,4 +99,4 @@ The program is optimized for speed and memory efficiency, implementing:
 
 ## License
 
-[Specify your license here]
+[MIT](LICENSE)
