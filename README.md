@@ -91,13 +91,6 @@ The program is optimized for speed and memory efficiency, implementing:
 - Linear-time scanning algorithms
 - Memory-conscious data structures
 
-## References
-
-This tool was developed based on research on Cluster K mycobacteriophages:
-
-- Pope, W.H., et al. (2011). Cluster K Mycobacteriophages: Insights into the Evolutionary Origins of Mycobacteriophage TM4. PLoS ONE 6(10): e26750.
-- Dedrick, R.M., et al. (2019). Mycobacteriophage ZoeJ: A broad host-range close relative of Mycobacteriophage TM4. Tuberculosis (Edinb), 115: 14-23.
-
 ## Requirements
 
 - C compiler (gcc recommended)
